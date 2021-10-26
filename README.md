@@ -3,12 +3,7 @@
 https://twitter.com/takiwakashikaku
 
 
-<h1 align="center">takiwaka</h1>
-
-<!-- 
-<div align="center">
-  <img src ="./banner.png" />
-</div> -->
+<h1>takiwaka</h1>
 
 ## About Me:
 
