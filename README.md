@@ -3,7 +3,8 @@
 よわよわコーダーです。
 
 jQuery/PHP/node.jsが若干できる。
-<br/>
+
+</br>
 
 **[最新ポートフォリオ(portfolio4)](https://takiwaka.sakura.ne.jp/)**
 
