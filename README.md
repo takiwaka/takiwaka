@@ -1,8 +1,4 @@
 
-# ReadMe is under construction
-
-
-
 メイン利用はTwitter
 https://twitter.com/takiwakashikaku
 
