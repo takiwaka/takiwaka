@@ -4,6 +4,8 @@
 
 jQuery/PHP/node.jsが若干できる。
 
+React勉強中
+
 </br>
 
 **[最新ポートフォリオ(portfolio4)](https://takiwaka.sakura.ne.jp/)**
