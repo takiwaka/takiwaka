@@ -1,6 +1,4 @@
 
-メイン利用はTwitter
-https://twitter.com/takiwakashikaku
 
 
 <h1>takiwaka</h1>
@@ -9,3 +7,5 @@ https://twitter.com/takiwakashikaku
 
 - 🙋‍♂️ All about me is at **[My Website(portfolio4)](https://takiwaka.sakura.ne.jp/)**
 
+メイン利用はTwitter
+https://twitter.com/takiwakashikaku
