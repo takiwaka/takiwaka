@@ -20,7 +20,7 @@ github(https://github.com/takiwaka/portfolio5)
 
 </br>
 
-メイン利用は**[Twitter](https://twitter.com/takiwakashikaku)**
+メイン利用は[Twitter](https://twitter.com/takiwakashikaku)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
