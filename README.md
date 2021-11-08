@@ -1,6 +1,6 @@
 <h1>takiwaka</h1>
 
-よわよわコーダーです。
+コーダー
 
 jQuery/PHP/node.jsが若干できる。
 
